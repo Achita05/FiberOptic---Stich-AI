@@ -1,0 +1,7 @@
+{
+  "name": "FiberOptic - AI Stitch Recognition",
+  "description": "Identify crochet and knitting patterns instantly using advanced AI vision. Perfect for unraveling mystery projects and learning new techniques.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
